@@ -1,0 +1,73 @@
+ ********* NEW TRY ************, SPIN:            1
+ REP:            1  DIM:            1  NUMBER OF BASES:           46
+           1          46
+   -215.9916      -24.75685      -24.32857      -16.82492      -2.848940    
+   -2.765386      -2.739444      -2.189456      -1.665335      -1.086532    
+   -1.016961     -0.8530277     -0.3075027     -0.2259254     -0.2152159    
+  -0.2087309     -0.7426810E-01 -0.6649807E-01 -0.2439525E-01 -0.1160705E-01
+  -0.5565955E-02 -0.1717598E-02  0.8392846E-03  0.8110057E-02  0.1234134E-01
+   0.1654701E-01  0.1845163E-01  0.1780881      0.5320366      0.5591934    
+   0.5754398      0.5963339      0.6054948      0.6179551      0.6364821    
+   0.6402334      0.7531224       1.841926       2.393827       2.402982    
+    2.429377       2.477139       2.482797       3.987738       16.45351    
+    38.71759    
+ ********* NEW TRY ************, SPIN:            2
+ REP:            1  DIM:            1  NUMBER OF BASES:           46
+           1          46
+   -223.2024      -27.72684      -24.56453      -24.28654      -2.872771    
+   -2.719743      -2.680776      -2.468452      -1.283227      -1.150921    
+   -1.020036     -0.6847291     -0.5176047     -0.2277207     -0.2145497    
+  -0.2107582     -0.1938844     -0.7691333E-01 -0.3354855E-01 -0.1184025E-01
+  -0.4653947E-02 -0.2778334E-02  0.4306047E-04  0.5860790E-02  0.8449176E-02
+   0.1603403E-01  0.1750019E-01  0.1771780      0.5335258      0.5649779    
+   0.5714592      0.5913825      0.6060176      0.6113395      0.6334139    
+   0.6360167      0.7530655       1.844237       2.391343       2.413155    
+    2.420509       2.476401       2.479000       3.988451       16.45942    
+    38.68193    
+ FERMI LEVEL:  -0.68472906223859453       TEMP:    1.0000000000000000E-004
+ SUMMARY OF EVALUES AND THEIR OCCUPANCIES:
+    1  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -223.202      OCC:    1.00000    
+    2  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -215.992      OCC:    1.00000    
+    3  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -27.7268      OCC:    1.00000    
+    4  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -24.7568      OCC:    1.00000    
+    5  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -24.5645      OCC:    1.00000    
+    6  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -24.3286      OCC:    1.00000    
+    7  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -24.2865      OCC:    1.00000    
+    8  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -16.8249      OCC:    1.00000    
+    9  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -2.87277      OCC:    1.00000    
+   10  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -2.84894      OCC:    1.00000    
+   11  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -2.76539      OCC:    1.00000    
+   12  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -2.73944      OCC:    1.00000    
+   13  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -2.71974      OCC:    1.00000    
+   14  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -2.68078      OCC:    1.00000    
+   15  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -2.46845      OCC:    1.00000    
+   16  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -2.18946      OCC:    1.00000    
+   17  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -1.66534      OCC:    1.00000    
+   18  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -1.28323      OCC:    1.00000    
+   19  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -1.15092      OCC:    1.00000    
+   20  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -1.08653      OCC:    1.00000    
+   21  REP:  1  DEG:  1  SPIN:  2  ENERGY:   -1.02004      OCC:    1.00000    
+   22  REP:  1  DEG:  1  SPIN:  1  ENERGY:   -1.01696      OCC:    1.00000    
+   23  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.853028      OCC:    1.00000    
+   24  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.684729      OCC:    1.00000    
+   25  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.517605      OCC:    0.00000    
+   26  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.307503      OCC:    0.00000    
+   27  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.227721      OCC:    0.00000    
+   28  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.225925      OCC:    0.00000    
+   29  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.215216      OCC:    0.00000    
+   30  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.214550      OCC:    0.00000    
+   31  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.210758      OCC:    0.00000    
+   32  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.208731      OCC:    0.00000    
+   33  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.193884      OCC:    0.00000    
+   34  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.769133E-01  OCC:    0.00000    
+   35  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.742681E-01  OCC:    0.00000    
+   36  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.664981E-01  OCC:    0.00000    
+   37  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.335486E-01  OCC:    0.00000    
+   38  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.243953E-01  OCC:    0.00000    
+   39  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.118402E-01  OCC:    0.00000    
+   40  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.116071E-01  OCC:    0.00000    
+   41  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.556596E-02  OCC:    0.00000    
+   42  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.465395E-02  OCC:    0.00000    
+   43  REP:  1  DEG:  1  SPIN:  2  ENERGY:  -0.277833E-02  OCC:    0.00000    
+   44  REP:  1  DEG:  1  SPIN:  1  ENERGY:  -0.171760E-02  OCC:    0.00000    
+   45  REP:  1  DEG:  1  SPIN:  2  ENERGY:   0.430605E-04  OCC:    0.00000    
