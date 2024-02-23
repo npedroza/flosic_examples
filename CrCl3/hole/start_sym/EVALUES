@@ -1,0 +1,147 @@
+OCCU ... CHOICES ARE NORM, OCCU OR FIXM                                         
+   15    1    1    1                                    # of occupied states for spin,rep,dim
+   0.000       1.000       1.000       1.000       1.000       1.000       1.000       1.000    
+   1.000       1.000       1.000       1.000       1.000       0.000       0.000    
+   14    1    2    2                                    # of occupied states for spin,rep,dim
+   1.000       1.000       1.000       1.000       1.000       1.000       1.000       1.000    
+   1.000       1.000       1.000       1.000      0.1776E-14   0.000    
+    4    1    3    1                                    # of occupied states for spin,rep,dim
+   1.000       1.000       0.000       0.000    
+   14    2    1    1                                    # of occupied states for spin,rep,dim
+   1.000       1.000       1.000       1.000       1.000       1.000       1.000       1.000    
+   1.000       1.000       1.000       1.000      0.4441E-14   0.000    
+   13    2    2    2                                    # of occupied states for spin,rep,dim
+   1.000       1.000       1.000       1.000       1.000       1.000       1.000       1.000    
+   1.000       1.000       1.000      0.5110-176  0.9424-217
+    4    2    3    1                                    # of occupied states for spin,rep,dim
+   1.000       1.000       0.000       0.000    
+******************************************* NEW REP *******************************************
+    1    1   48    1                                              (Spin, Rep, Nbas, Deg)
+  
+  -216.3      -100.4      -24.66      -21.07      -9.189      -7.040      -7.040      -2.851    
+  -1.837     -0.7977     -0.4124     -0.3546     -0.2474     -0.2635E-01  0.1023E-01  0.7342E-01
+  0.1150      0.1529      0.2325      0.3560      0.4189      0.5477      0.6661      0.8083    
+  0.8304      0.8886       1.046       1.092       1.150       1.226       1.789       2.420    
+   2.575       2.664       3.000       3.182       3.666       3.699       3.859       4.049    
+   4.336       5.995       10.04       12.31       16.99       40.90       153.5       977.8    
+******************************************* NEW REP *******************************************
+    1    2   52    2                                              (Spin, Rep, Nbas, Deg)
+  
+  -100.4      -21.07      -9.189      -7.040      -7.040      -7.040      -1.849     -0.7840    
+ -0.4015     -0.3690     -0.3659     -0.2259     -0.1956      0.4491E-01  0.1406      0.1511    
+  0.1791      0.2134      0.2539      0.2972      0.2999      0.5102      0.6622      0.7718    
+  0.8926      0.9015      0.9397       1.034       1.088       1.110       1.129       1.300    
+   1.436       1.757       2.103       2.628       2.928       2.952       3.018       3.026    
+   3.221       3.473       3.616       3.681       3.719       4.030       4.093       9.009    
+   10.17       21.13       153.5       335.7    
+******************************************* NEW REP *******************************************
+    1    3   11    1                                              (Spin, Rep, Nbas, Deg)
+  
+  -7.040     -0.3088      0.2174      0.2728      0.4658      0.9707       1.075       1.341    
+   3.011       3.189       3.688    
+******************************************* NEW REP *******************************************
+    2    1   48    1                                              (Spin, Rep, Nbas, Deg)
+  
+  -211.6      -100.4      -23.67      -20.09      -9.188      -7.040      -7.040      -2.552    
+  -1.563     -0.7866     -0.3834     -0.3456     -0.1013      0.6461E-02  0.3096E-01  0.9597E-01
+  0.1576      0.1857      0.2430      0.3598      0.4189      0.5666      0.6997      0.8349    
+  0.8797      0.9263       1.061       1.090       1.196       1.264       1.783       2.525    
+   2.528       2.711       3.024       3.287       3.658       3.687       3.851       3.918    
+   4.397       5.873       10.04       12.02       17.25       42.46       153.5       930.6    
+******************************************* NEW REP *******************************************
+    2    2   52    2                                              (Spin, Rep, Nbas, Deg)
+  
+  -100.4      -20.09      -9.189      -7.040      -7.040      -7.040      -1.579     -0.7736    
+ -0.3633     -0.3536     -0.3459     -0.6400E-01 -0.5462E-01  0.4884E-01  0.1431      0.1573    
+  0.2275      0.2373      0.2631      0.3201      0.3258      0.5287      0.6798      0.7841    
+  0.8984      0.9158      0.9720       1.041       1.095       1.122       1.189       1.319    
+   1.466       1.765       2.120       2.597       2.953       3.016       3.038       3.145    
+   3.281       3.531       3.609       3.680       3.716       3.959       4.084       8.763    
+   10.14       20.04       153.5       327.4    
+******************************************* NEW REP *******************************************
+    2    3   11    1                                              (Spin, Rep, Nbas, Deg)
+  
+  -7.040     -0.3088      0.2174      0.2728      0.4658      0.9707       1.075       1.341    
+   3.011       3.189       3.688    
+***********************************************************************************************
+                                 -0.225943 Fermi Levels   -0.308812
+***********************************************************************************************
+ CONTROLS:
+ NO-FLIP -- Do Nothing
+ ZERO    -- Set Eigenvector to ZERO
+ FLIP    -- Move Eigenvector to opposite spin
+ POLARIZE-- Force spin-polarized calculation
+ PROJECT -- move state up by 1 au           
+    1 Rep:  1 Deg:  1 Spin: u Energy    -216.275204 Occ:       0.000000 <==HOLE                     NO-FLIP        1  1  1
+    2 Rep:  1 Deg:  1 Spin: d Energy    -211.580328 Occ:       1.000000 <==                         NO-FLIP        1  1  2
+    3 Rep:  2 Deg:  2 Spin: u Energy    -100.369044 Occ:       1.000000 <==                         NO-FLIP        1  2  1
+    4 Rep:  2 Deg:  2 Spin: d Energy    -100.369041 Occ:       1.000000 <==                         NO-FLIP        1  2  2
+    5 Rep:  1 Deg:  1 Spin: u Energy    -100.369040 Occ:       1.000000 <==                         NO-FLIP        2  1  1
+    6 Rep:  1 Deg:  1 Spin: d Energy    -100.369038 Occ:       1.000000 <==                         NO-FLIP        2  1  2
+    7 Rep:  1 Deg:  1 Spin: u Energy     -24.660173 Occ:       1.000000 <==                         NO-FLIP        3  1  1
+    8 Rep:  1 Deg:  1 Spin: d Energy     -23.670246 Occ:       1.000000 <==                         NO-FLIP        3  1  2
+    9 Rep:  2 Deg:  2 Spin: u Energy     -21.066761 Occ:       1.000000 <==                         NO-FLIP        2  2  1
+   10 Rep:  1 Deg:  1 Spin: u Energy     -21.066727 Occ:       1.000000 <==                         NO-FLIP        4  1  1
+   11 Rep:  2 Deg:  2 Spin: d Energy     -20.085769 Occ:       1.000000 <==                         NO-FLIP        2  2  2
+   12 Rep:  1 Deg:  1 Spin: d Energy     -20.085724 Occ:       1.000000 <==                         NO-FLIP        4  1  2
+   13 Rep:  2 Deg:  2 Spin: u Energy      -9.188953 Occ:       1.000000 <==                         NO-FLIP        3  2  1
+   14 Rep:  2 Deg:  2 Spin: d Energy      -9.188710 Occ:       1.000000 <==                         NO-FLIP        3  2  2
+   15 Rep:  1 Deg:  1 Spin: u Energy      -9.188665 Occ:       1.000000 <==                         NO-FLIP        5  1  1
+   16 Rep:  1 Deg:  1 Spin: d Energy      -9.188484 Occ:       1.000000 <==                         NO-FLIP        5  1  2
+   17 Rep:  2 Deg:  2 Spin: u Energy      -7.039992 Occ:       1.000000 <==                         NO-FLIP        4  2  1
+   18 Rep:  2 Deg:  2 Spin: d Energy      -7.039935 Occ:       1.000000 <==                         NO-FLIP        4  2  2
+   19 Rep:  1 Deg:  1 Spin: u Energy      -7.039913 Occ:       1.000000 <==                         NO-FLIP        6  1  1
+   20 Rep:  1 Deg:  1 Spin: d Energy      -7.039873 Occ:       1.000000 <==                         NO-FLIP        6  1  2
+   21 Rep:  2 Deg:  2 Spin: u Energy      -7.039796 Occ:       1.000000 <==                         NO-FLIP        5  2  1
+   22 Rep:  2 Deg:  2 Spin: d Energy      -7.039782 Occ:       1.000000 <==                         NO-FLIP        5  2  2
+   23 Rep:  2 Deg:  2 Spin: u Energy      -7.039750 Occ:       1.000000 <==                         NO-FLIP        6  2  1
+   24 Rep:  2 Deg:  2 Spin: d Energy      -7.039744 Occ:       1.000000 <==                         NO-FLIP        6  2  2
+   25 Rep:  1 Deg:  1 Spin: u Energy      -7.039735 Occ:       1.000000 <==                         NO-FLIP        7  1  1
+   26 Rep:  1 Deg:  1 Spin: d Energy      -7.039732 Occ:       1.000000 <==                         NO-FLIP        7  1  2
+   27 Rep:  3 Deg:  1 Spin: u Energy      -7.039720 Occ:       1.000000 <==                         NO-FLIP        1  3  1
+   28 Rep:  3 Deg:  1 Spin: d Energy      -7.039720 Occ:       1.000000 <==                         NO-FLIP        1  3  2
+   29 Rep:  1 Deg:  1 Spin: u Energy      -2.851434 Occ:       1.000000 <==                         NO-FLIP        8  1  1
+   30 Rep:  1 Deg:  1 Spin: d Energy      -2.552456 Occ:       1.000000 <==                         NO-FLIP        8  1  2
+   31 Rep:  2 Deg:  2 Spin: u Energy      -1.849183 Occ:       1.000000 <==                         NO-FLIP        7  2  1
+   32 Rep:  1 Deg:  1 Spin: u Energy      -1.837119 Occ:       1.000000 <==                         NO-FLIP        9  1  1
+   33 Rep:  2 Deg:  2 Spin: d Energy      -1.578734 Occ:       1.000000 <==                         NO-FLIP        7  2  2
+   34 Rep:  1 Deg:  1 Spin: d Energy      -1.563398 Occ:       1.000000 <==                         NO-FLIP        9  1  2
+   35 Rep:  1 Deg:  1 Spin: u Energy      -0.797691 Occ:       1.000000 <==                         NO-FLIP       10  1  1
+   36 Rep:  1 Deg:  1 Spin: d Energy      -0.786557 Occ:       1.000000 <==                         NO-FLIP       10  1  2
+   37 Rep:  2 Deg:  2 Spin: u Energy      -0.783968 Occ:       1.000000 <==                         NO-FLIP        8  2  1
+   38 Rep:  2 Deg:  2 Spin: d Energy      -0.773568 Occ:       1.000000 <==                         NO-FLIP        8  2  2
+   39 Rep:  1 Deg:  1 Spin: u Energy      -0.412362 Occ:       1.000000 <==                         NO-FLIP       11  1  1
+   40 Rep:  2 Deg:  2 Spin: u Energy      -0.401458 Occ:       1.000000 <==                         NO-FLIP        9  2  1
+   41 Rep:  1 Deg:  1 Spin: d Energy      -0.383372 Occ:       1.000000 <==                         NO-FLIP       11  1  2
+   42 Rep:  2 Deg:  2 Spin: u Energy      -0.368984 Occ:       1.000000 <==                         NO-FLIP       10  2  1
+   43 Rep:  2 Deg:  2 Spin: u Energy      -0.365900 Occ:       1.000000 <==                         NO-FLIP       11  2  1
+   44 Rep:  2 Deg:  2 Spin: d Energy      -0.363305 Occ:       1.000000 <==                         NO-FLIP        9  2  2
+   45 Rep:  1 Deg:  1 Spin: u Energy      -0.354557 Occ:       1.000000 <==                         NO-FLIP       12  1  1
+   46 Rep:  2 Deg:  2 Spin: d Energy      -0.353577 Occ:       1.000000 <==                         NO-FLIP       10  2  2
+   47 Rep:  2 Deg:  2 Spin: d Energy      -0.345927 Occ:       1.000000 <==                         NO-FLIP       11  2  2
+   48 Rep:  1 Deg:  1 Spin: d Energy      -0.345628 Occ:       1.000000 <==                         NO-FLIP       12  1  2
+   49 Rep:  3 Deg:  1 Spin: u Energy      -0.308812 Occ:       1.000000 <==                         NO-FLIP        2  3  1
+   50 Rep:  3 Deg:  1 Spin: d Energy      -0.308812 Occ:       1.000000 <==                         NO-FLIP        2  3  2
+   51 Rep:  1 Deg:  1 Spin: u Energy      -0.247419 Occ:       1.000000 <==                         NO-FLIP       13  1  1
+   52 Rep:  2 Deg:  2 Spin: u Energy      -0.225943 Occ:       1.000000 <==HOMO                     NO-FLIP       12  2  1
+  
+   53 Rep:  2 Deg:  2 Spin: u Energy      -0.195640 Occ:       0.000000 <==LUMO, GAP =   -0.030303  NO-FLIP       13  2  1
+   54 Rep:  1 Deg:  1 Spin: d Energy      -0.101286 Occ:       0.000000 <==                         NO-FLIP       13  1  2
+   55 Rep:  2 Deg:  2 Spin: d Energy      -0.063998 Occ:       0.000000 <==                         NO-FLIP       12  2  2
+   56 Rep:  2 Deg:  2 Spin: d Energy      -0.054619 Occ:       0.000000 <==                         NO-FLIP       13  2  2
+   57 Rep:  1 Deg:  1 Spin: u Energy      -0.026351 Occ:       0.000000 <==                         NO-FLIP       14  1  1
+   58 Rep:  1 Deg:  1 Spin: d Energy       0.006461 Occ:       0.000000 <==                         NO-FLIP       14  1  2
+   59 Rep:  1 Deg:  1 Spin: u Energy       0.010232 Occ:       0.000000 <==                         NO-FLIP       15  1  1
+   60 Rep:  1 Deg:  1 Spin: d Energy       0.030965 Occ:       0.000000 <==                         NO-FLIP       15  1  2
+   61 Rep:  2 Deg:  2 Spin: u Energy       0.044912 Occ:       0.000000 <==                         NO-FLIP       14  2  1
+   62 Rep:  2 Deg:  2 Spin: d Energy       0.048843 Occ:       0.000000 <==                         NO-FLIP       14  2  2
+   63 Rep:  1 Deg:  1 Spin: u Energy       0.073420 Occ:       0.000000 <==                         NO-FLIP       16  1  1
+   64 Rep:  1 Deg:  1 Spin: d Energy       0.095965 Occ:       0.000000 <==                         NO-FLIP       16  1  2
+   65 Rep:  1 Deg:  1 Spin: u Energy       0.115006 Occ:       0.000000 <==                         NO-FLIP       17  1  1
+   66 Rep:  2 Deg:  2 Spin: u Energy       0.140618 Occ:       0.000000 <==                         NO-FLIP       15  2  1
+   67 Rep:  2 Deg:  2 Spin: d Energy       0.143147 Occ:       0.000000 <==                         NO-FLIP       15  2  2
+   68 Rep:  2 Deg:  2 Spin: u Energy       0.151115 Occ:       0.000000 <==                         NO-FLIP       16  2  1
+   69 Rep:  1 Deg:  1 Spin: u Energy       0.152870 Occ:       0.000000 <==                         NO-FLIP       18  1  1
+   70 Rep:  2 Deg:  2 Spin: d Energy       0.157312 Occ:       0.000000 <==                         NO-FLIP       16  2  2
+   71 Rep:  1 Deg:  1 Spin: d Energy       0.157569 Occ:       0.000000 <==                         NO-FLIP       17  1  2
+   72 Rep:  2 Deg:  2 Spin: u Energy       0.179053 Occ:       0.000000 <==                         NO-FLIP       17  2  1

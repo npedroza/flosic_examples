@@ -1,0 +1,8 @@
+LDA-PW91*LDA-PW91        (DF TYPE EXCHANGE*CORRELATION)
+GRP                      (TD, OH, IH, X, Y, XY, ... OR GRP)
+1                        (NUMBER OF INEQUIV. ATOMS IN CH4)
+0.00  0.00  0.00 36  ALL (R, Z, PSEUDOPOT. TYPE FOR CARBON)
+0.0 0.0                  (NET CHARGE AND NET SPIN)
+ --------------OR-------------------
+@XMOL.DAT
+ IF YOU WISH TO START FROM AN XYZ XMOL FILE
